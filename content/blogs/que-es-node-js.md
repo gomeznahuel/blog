@@ -4,7 +4,7 @@ description: Es una plataforma de programación basada en JavaScript que se ejec
 author: Nahuel Gómez
 authorImage: https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1540&q=50
 coverImage: /images/nodejs.png
-date: "2022-04-20"
+date: "2022-12-22"
 ---
 
 ## **¿Qué es Node JS?**
